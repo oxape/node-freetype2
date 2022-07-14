@@ -58,7 +58,7 @@
         # rasterizers (optional; at least one is needed for vector formats)
         '../vendor/freetype/src/raster/raster.c',     # monochrome rasterizer
         '../vendor/freetype/src/smooth/smooth.c',     # anti-aliasing rasterizer
-        '../vendor/freetype/src/sdf/sdf.c',           # Signed Distance Field driver
+        # '../vendor/freetype/src/sdf/sdf.c',           # Signed Distance Field driver
 
         # auxiliary modules (optional)
         '../vendor/freetype/src/autofit/autofit.c',   # auto hinting module
